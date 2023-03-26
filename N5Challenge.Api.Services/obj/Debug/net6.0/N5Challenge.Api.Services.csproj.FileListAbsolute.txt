@@ -1,0 +1,15 @@
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\obj\Debug\net6.0\N5Challenge.Api.Services.csproj.AssemblyReference.cache
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\obj\Debug\net6.0\N5Challenge.Api.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\obj\Debug\net6.0\N5Challenge.Api.Services.AssemblyInfoInputs.cache
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\obj\Debug\net6.0\N5Challenge.Api.Services.AssemblyInfo.cs
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\obj\Debug\net6.0\N5Challenge.Api.Services.csproj.CoreCompileInputs.cache
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\bin\Debug\net6.0\N5Challenge.Api.Services.deps.json
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\bin\Debug\net6.0\N5Challenge.Api.Services.dll
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\bin\Debug\net6.0\N5Challenge.Api.Services.pdb
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\bin\Debug\net6.0\N5Challenge.Api.Core.dll
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\bin\Debug\net6.0\N5Challenge.Api.Core.pdb
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\obj\Debug\net6.0\N5Challenge.Api.Services.csproj.CopyComplete
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\obj\Debug\net6.0\N5Challenge.Api.Services.dll
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\obj\Debug\net6.0\refint\N5Challenge.Api.Services.dll
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\obj\Debug\net6.0\N5Challenge.Api.Services.pdb
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Services\obj\Debug\net6.0\ref\N5Challenge.Api.Services.dll

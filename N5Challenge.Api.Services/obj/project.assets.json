@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "N5Challenge.Api.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/N5Challenge.Api.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/N5Challenge.Api.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "N5Challenge.Api.Core/1.0.0": {
+      "type": "project",
+      "path": "../N5Challenge.Api.Core/N5Challenge.Api.Core.csproj",
+      "msbuildProject": "../N5Challenge.Api.Core/N5Challenge.Api.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "N5Challenge.Api.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lojasoft\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Lojasoft\\Documents\\Projects\\n5\\N5Challenge.Api\\N5Challenge.Api.Services\\N5Challenge.Api.Services.csproj",
+      "projectName": "N5Challenge.Api.Services",
+      "projectPath": "C:\\Users\\Lojasoft\\Documents\\Projects\\n5\\N5Challenge.Api\\N5Challenge.Api.Services\\N5Challenge.Api.Services.csproj",
+      "packagesPath": "C:\\Users\\Lojasoft\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lojasoft\\Documents\\Projects\\n5\\N5Challenge.Api\\N5Challenge.Api.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Lojasoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Lojasoft\\Documents\\Projects\\n5\\N5Challenge.Api\\N5Challenge.Api.Core\\N5Challenge.Api.Core.csproj": {
+              "projectPath": "C:\\Users\\Lojasoft\\Documents\\Projects\\n5\\N5Challenge.Api\\N5Challenge.Api.Core\\N5Challenge.Api.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

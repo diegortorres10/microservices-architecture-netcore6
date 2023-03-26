@@ -1,0 +1,12 @@
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\obj\Debug\net6.0\N5Challenge.Api.Core.csproj.AssemblyReference.cache
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\obj\Debug\net6.0\N5Challenge.Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\obj\Debug\net6.0\N5Challenge.Api.Core.AssemblyInfoInputs.cache
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\obj\Debug\net6.0\N5Challenge.Api.Core.AssemblyInfo.cs
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\obj\Debug\net6.0\N5Challenge.Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\bin\Debug\net6.0\N5Challenge.Api.Core.deps.json
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\bin\Debug\net6.0\N5Challenge.Api.Core.dll
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\bin\Debug\net6.0\N5Challenge.Api.Core.pdb
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\obj\Debug\net6.0\N5Challenge.Api.Core.dll
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\obj\Debug\net6.0\refint\N5Challenge.Api.Core.dll
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\obj\Debug\net6.0\N5Challenge.Api.Core.pdb
+C:\Users\Lojasoft\Documents\Projects\n5\N5Challenge.Api\N5Challenge.Api.Core\obj\Debug\net6.0\ref\N5Challenge.Api.Core.dll

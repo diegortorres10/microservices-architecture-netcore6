@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+    elasticsearch:
+        container_name: els
+        image: docker.elastic.co/elasticsearch/elasticsearch:7.16.1
+        ports:
+            - 9200:9200
+        volumes:
+            - /var/lib/docker/volumes/02c4aab160131fd5086a343f104b8c2f1204cd483608b171599b5ce30e19b9d2/_data
+        environment:
+            - xpack.monitoring.enabled=true
+            - xpack.watcher.enabled=false
+            - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+            - discovery.type=single-node
+        #networks:
+            # - n5network
+
+#networks:
+    #n5network:
+        #driver: bridge
